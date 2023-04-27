@@ -5,21 +5,21 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dualbricks/dualbricks/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dualbricks/dualbricks/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 </p>
 
 <p align="center">
 <picture align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=theme=dark#gh-dark-mode-only" />
-  <source media="(prefers-color-scheme: light)" srcset="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=default#gh-light-mode-only" />
-  <img alt="top-lang" src="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=theme=dark#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=default" />
+  <img alt="top-lang" src="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=theme=dark" />
 </picture>
 
 <picture align="right">
-  <source media="(prefers-color-scheme: dark)" srcset="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&hide=Jupyter+Notebook&theme=theme=dark#gh-dark-mode-only" />
-  <source media="(prefers-color-scheme: light)" srcset="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&hide=Jupyter+Notebook&theme=default#gh-light-mode-only" />
-  <img alt="top-lang" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&theme=theme=dark#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&hide=Jupyter+Notebook&theme=theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&hide=Jupyter+Notebook&theme=default" />
+  <img alt="top-lang" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&theme=theme=dark" />
 </picture>
 </p>
 
