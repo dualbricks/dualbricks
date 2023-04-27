@@ -10,12 +10,17 @@
 </p>
 
 <p align="center">
-<a>
-  <img align="left" src="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=default#gh-light-mode-only"/>
-</a>
-<a>
-  <img align="right" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&theme=transparent" />
-</a>
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=theme=dark#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=default#gh-light-mode-only" />
+  <img alt="top-lang" src="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=theme=dark#gh-dark-mode-only" />
+</picture>
+
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&hide=Jupyter+Notebook&theme=theme=dark#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&hide=Jupyter+Notebook&theme=default#gh-light-mode-only" />
+  <img alt="top-lang" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&theme=theme=dark#gh-dark-mode-only" />
+</picture>
 </p>
 
 
