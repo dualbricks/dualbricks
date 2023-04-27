@@ -5,7 +5,15 @@
   <a align="center" href="https://github.com/Dualbricks"><img src="https://raw.githubusercontent.com/dualbricks/dualbricks/output/github-contribution-grid-snake.svg" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dualbricks)](https://github.com/anuraghazra/github-readme-stats)
+<a >
+  <img align="center" src="https://adorable-irradiated-apricot.glitch.me/toplang/?username=dualbricks&hide=jupyternotebook"/>
+</a>
+<a>
+  <img align="center" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks" />
+</a>
+
+
+
 
 <!--
 **dualbricks/dualbricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
