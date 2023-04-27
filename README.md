@@ -7,10 +7,10 @@
 
 <p align="center">
 <a>
-  <img align="left" src="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook"/>
+  <img align="left" src="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=transparent"/>
 </a>
 <a>
-  <img align="right" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks" />
+  <img align="right" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&theme=transparent" />
 </a>
 </p>
 
