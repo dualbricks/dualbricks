@@ -7,7 +7,7 @@
 
 <p align="center">
 <a>
-  <img align="left" src="https://adorable-irradiated-apricot.glitch.me/toplang/?username=dualbricks&hide=Jupyter+Notebook"/>
+  <img align="left" src="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook"/>
 </a>
 <a>
   <img align="right" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks" />
