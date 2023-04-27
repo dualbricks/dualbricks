@@ -11,7 +11,7 @@
 
 <p align="center">
 <a>
-  <img align="left" src="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=transparent"/>
+  <img align="left" src="https://adorable-irradiated-apricot.glitch.me/top-langs/?username=dualbricks&hide=Jupyter+Notebook&layout=compact&theme=default#gh-light-mode-only"/>
 </a>
 <a>
   <img align="right" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks&theme=transparent" />
