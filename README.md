@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Dualbricks">Wenyue</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="./"><img src="https://github.com/dualbricks/dualbricks/output/github-contribution-grid-snake.svg" /></a>
+  <a align="center" href="https://github.com/Dualbricks"><img src="https://raw.githubusercontent.com/dualbricks/dualbricks/output/github-contribution-grid-snake.svg" /></a>
 </p>
 
 <!--
