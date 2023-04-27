@@ -5,12 +5,15 @@
   <a align="center" href="https://github.com/Dualbricks"><img src="https://raw.githubusercontent.com/dualbricks/dualbricks/output/github-contribution-grid-snake.svg" /></a>
 </p>
 
-<a >
-  <img align="center" src="https://adorable-irradiated-apricot.glitch.me/toplang/?username=dualbricks&hide=jupyternotebook"/>
+<p align="center">
+<a>
+  <img align="left" src="https://adorable-irradiated-apricot.glitch.me/toplang/?username=dualbricks&hide=Jupyter+Notebook"/>
 </a>
 <a>
-  <img align="center" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks" />
+  <img align="right" src="https://adorable-irradiated-apricot.glitch.me/?username=dualbricks" />
 </a>
+</p>
+
 
 
 
