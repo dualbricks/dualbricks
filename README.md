@@ -1,6 +1,11 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/Dualbricks">Wenyue</a>'s Profile 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile&color=%2386cddf&height=200px&size=60&width=750px" />
+  <source media="(prefers-color-scheme: light)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile&color=%23203135&height=200px&size=60&width=750px" />
+  <img alt="github-snake" src="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile" />
+</picture>
 </p>
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dualbricks/dualbricks/output/github-contribution-grid-snake-dark.svg" />
@@ -24,6 +29,20 @@
 </picture>
   
 </p>
+
+
+
+Stuff about me:
+
+- 🌱 I’m currently learning  NLP and Machine Learning 
+- 👯 I’m interested in Artificial Intelligence and Cyber Security
+- ⚡ Pixel Art Lover and Gamer
+
+Credits:
+- Animated SVG Text - by [Me](https://github.com/dualbricks/profile-animation-generator)
+- Animated Contribution Snake - by [Platane](https://github.com/Platane/snk)
+- GitHub stats - by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
