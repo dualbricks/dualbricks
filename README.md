@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile&color=%2386cddf&height=200px&size=60&width=700px&fontStyle=VT323" />
-  <source media="(prefers-color-scheme: light)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile&color=%23203135&height=200px&size=60&width=700px&fontStyle=VT323" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile&color=%2386cddf&height=200px&size=60&width=650px&fontStyle=VT323" />
+  <source media="(prefers-color-scheme: light)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile&color=%23203135&height=200px&size=60&width=650px&fontStyle=VT323" />
   <img alt="github-snake" src="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile" />
 </picture>
 </p>
