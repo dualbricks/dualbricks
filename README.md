@@ -34,7 +34,7 @@
 
 Stuff about me:
 
-- 🌱 I’m currently learning  NLP and Machine Learning 
+- 🌱 I’m currently learning  NLP and Retrieval Augmented Generation
 - 👯 I’m interested in Artificial Intelligence and Cyber Security
 - ⚡ Pixel Art Lover and Gamer
 
