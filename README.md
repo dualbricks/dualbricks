@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile-I+Code+And+Study+AI+For+Fun!&color=%2386cddf&height=200px&size=20&width=1000px&fontStyle=VT323&speed=5000ms" />
-  <source media="(prefers-color-scheme: light)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile-I+Code+And+Study+AI+For+Fun!&color=%23203135&height=200px&size=20&width=1000px&fontStyle=VT323&speed=5000ms" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile-I+Code+And+Study+AI+For+Fun!!&color=%2386cddf&height=200px&size=20&width=1000px&fontStyle=VT323&speed=5000ms" />
+  <source media="(prefers-color-scheme: light)" srcset="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile-I+Code+And+Study+AI+For+Fun!!&color=%23203135&height=200px&size=20&width=1000px&fontStyle=VT323&speed=5000ms" />
   <img alt="github-snake" src="https://time-five-reading.glitch.me/svg?text=Welcome+To+Wenyue%27s+Profile-Artificial+Intelligence-Cyber+Security" />
 </picture>
 </p>
