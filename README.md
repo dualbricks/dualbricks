@@ -25,7 +25,6 @@ Stuff about me:
 Credits:
 - Animated SVG Text - by [Me](https://github.com/dualbricks/profile-animation-generator)
 - Animated Contribution Snake - by [Platane](https://github.com/Platane/snk)
-- GitHub stats - by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 
 
